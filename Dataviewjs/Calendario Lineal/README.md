@@ -21,6 +21,17 @@ Para que este script funcione, necesitas tener instalado el plugin de comunidad 
 
 ---
 
+###  Características Principales
+
+* **Vistas Flexibles:** Botones interactivos para cambiar el enfoque entre vista **Anual, Semestral o Trimestral**.
+* **Detector de Carga:** Si acumulas 3 o más proyectos en un mismo día, la celda se marcará automáticamente en rojo para alertar sobre saturación.
+* **Interactividad:** * Haz clic en cualquier barra de proyecto para abrir la nota original.
+ * Pasa el ratón sobre los diamantes de **Hitos** para ver la descripción.
+ * Filtros rápidos por **Estado** y **Prioridad (Color)**.
+* **Buscador:** Filtro de búsqueda en tiempo real por nombre de proyecto.
+
+---
+
 ### Instalación
 
 1. Crea una nueva nota en tu Obsidian.
@@ -57,3 +68,4 @@ hitos:
   2026-02-20: mitad del curso
 ---
 ```
+
