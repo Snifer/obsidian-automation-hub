@@ -10,6 +10,8 @@ If you want to see how to install, configure, and use it step-by-step, watch thi
 
 Enable auto dubbed English in YouTube.
 
+[![desktop.png](https://i.postimg.cc/pdzrdk3b/desktop.png)](https://postimg.cc/kVMq1Nnf)
+
 ---
 
 ### Requirements
