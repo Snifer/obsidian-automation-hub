@@ -69,3 +69,4 @@ hitos:
 ---
 ```
 
+Si no deseas usar color como referencia y si un icono solo debes de usar la propiedad `icono: emoji`
